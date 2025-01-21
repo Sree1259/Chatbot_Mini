@@ -1,0 +1,70 @@
+Why Artificial Intelligence in Cyber Security is Need of the Hour
+by VARINDIA 2018-06-19
+Why Artificial Intelligence in Cyber Security is Need of the Hour
+
+Forget those scenes of shiny robots flying around data centres or super-cool disembodied voices discussing advanced concepts. Cyber security has far more basic needs. Through our reliance on ever larger quantities of data, we have created the need for a parallel problem of keeping it all safe. Unfortunately, it is far easier to produce data than it is to protect it.
+
+ 
+
+Where artificial intelligence is really needed
+
+ 
+
+AI’s crucial role right now is to offload work from human cybersecurity engineers, to handle the depth and detail that humans cannot tackle fast enough or accurately enough. Advances in machine learning technology mean that AI applications can also automatically adapt to changes in threats and spot problems as they arise.
+
+ 
+
+Here are some of the most pressing cybersecurity needs that AI tools and platforms can help to meet.
+
+ 
+
+Handling huge volumes of security data
+
+ 
+
+People go glassy-eyed very quickly when confronted with the huge amounts of log data and alerts produced by today’s systems. AI software running on today’s powerful processors can zip through more data in minutes than humans could tackle in months and list problems and anomalies immediately.
+
+ 
+
+Picking out threat needles in cyber haystacks
+
+ 
+
+Cyber criminals are already inside many systems, waiting for the right moment to complete their attacks. They can often hide from humans. On the other hand, AI can rapidly analyse swathes of situations and behaviours to spot the threat needles that correspond to malicious activity.
+
+ 
+
+Acceleration of detection and response times
+
+ 
+
+AI can speed up detection of genuine problems, rapidly cross-referencing different alerts and sources of security data. Human cyber security experts will still make the calls on the priorities of the incidents to be handled but can be further helped by AI systems that automatically suggest plans for optimizing responses.
+
+ 
+
+Keeping up in the AI arms race
+
+ 
+
+Sorry, but cyber criminals have probably got there before you. AI, like technology in general, can be used for good or bad. Hackers have no scruples about using the latest tools to launch more attacks, each one more dangerous than the last. It’s an arms race of AI versus AI, and you need to keep up.
+
+ 
+
+Breathing space for human cyber security teams
+
+ 
+
+Humans excel in using their imagination, experience, and judgment to put better security strategies in place and improve overall security posture. That is, if they are not being swamped out by alerts and incidents. With AI supporting them, however, they can get back to what they do best.
+
+ 
+
+Conclusion
+
+ 
+
+A set of socket wrenches is not attractive. By itself, it won’t mend a car either. But in the hands of a skilled mechanic, there is little that cannot be repaired or improved. That is largely the situation with AI today. It won’t replace human security engineers neither can it handle cybersecurity on its own. However, it is now a critical tool for getting on top of cyber security, managing the volumes of threat data for better detection and response and keeping cyber defences high enough to repel or evict attackers before any serious damage can be done.
+
+ 
+
+Amit Tewary
+AVP & Region Head India North, Paladion Networks
